@@ -31,14 +31,14 @@
  <Param name="MTK_AUDIO_NUMBER_OF_MIC" value="" />
  <Param name="MTK_PLATFORM" value="common" />
  <Param name="MTK_AURISYS_FRAMEWORK_SUPPORT" value="yes" />
- <Param name="MTK_BESLOUDNESS_RUN_WITH_HAL" value="" />
+ <Param name="MTK_BESLOUDNESS_RUN_WITH_HAL" value="yes" />
  <Param name="MTK_AUDIO" value="yes" />
  <Param name="USE_CUSTOM_AUDIO_POLICY" value="" />
  <Param name="USE_XML_AUDIO_POLICY_CONF" value="" />
  <Param name="MTK_AUDIO_TUNNELING_SUPPORT" value="" />
  <Param name="MTK_SMARTPA_DUMMY_LIB" value="" />
  <Param name="MTK_HIFIAUDIO_SUPPORT" value="yes" />
- <Param name="MTK_BESLOUDNESS_SUPPORT" value="" />
+ <Param name="MTK_BESLOUDNESS_SUPPORT" value="yes" />
  <Param name="MTK_USB_PHONECALL" value="" />
  <Param name="MTK_AUDIO_NUMBER_OF_SPEAKER" value="" />
  <Param name="MTK_A2DP_OFFLOAD_SUPPORT" value="yes" />
